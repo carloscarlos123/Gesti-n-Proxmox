@@ -1,6 +1,6 @@
 # 🚀 **Script de Menú Interactivo para Proxmox**
 
-Este script en **Bash** ofrece un menú interactivo para gestionar y administrar tu entorno **Proxmox VE**. Es una herramienta sencilla y eficaz para realizar tareas básicas, como gestionar máquinas virtuales (VM), contenedores LXC, backups y más, todo desde un solo lugar.
+Este script en **Bash** ofrece un menú interactivo para gestionar y administrar tu entorno **Proxmox VE**. Es una herramienta sencilla y eficaz para realizar tareas básicas, como gestionar máquinas virtuales (VM), usuarios, pools, backups y más..
 
 ---
 
