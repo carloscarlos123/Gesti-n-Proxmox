@@ -151,36 +151,7 @@ menu() {
 	echo "Pulsa la tecla W para arriba y la tecla S para abajo"
 	echo
 	echo "---------------------------------------------"
-	case $1 in
-		1)
-			imprimir_menu 1	;;
-		2)
-			imprimir_menu 2 ;;
-		3)
-			imprimir_menu 3	;;
-		4)
-			imprimir_menu 4	;;
-		5)
-			imprimir_menu 5	;;
-		6)
-			imprimir_menu 6	;;
-		7)
-			imprimir_menu 7	;;
-		8)
-			imprimir_menu 8	;;
-		9)
-			imprimir_menu 9	;;
-		10)
-			imprimir_menu 10 ;;
-		11)
-			imprimir_menu 11 ;;
-		12)
-			imprimir_menu 12 ;;
-		13)
-			imprimir_menu 13 ;;
-		*)
-			clear ;;
-	esac
+	imprimir_menu $1 ;;
 	echo "---------------------------------------------"
 }
 
